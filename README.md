@@ -1,5 +1,5 @@
 A fresh install of Micromamba over a default install of Anaconda/Miniconda is encouraged. 
-Instructions [here] (https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions)
+Instructions: https://www.anaconda.com/docs/getting-started/miniconda/install#quickstart-install-instructions
 
 On Linux:
 1. Clone this directory: `git clone https://github.com/eleR09173/PTA_NESSAI-ENV.git`
